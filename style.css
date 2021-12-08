@@ -1,0 +1,52 @@
+.body {
+  background-image: url(images/my-page-pics.jpeg);
+
+  padding: 80px 40px;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.flex {
+  border-radius: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+}
+
+.size {
+  width: 100px;
+  padding-left: 700px;
+  padding-top: 60px;
+}
+
+.fate {
+  font-size: xx-large;
+  padding-top: 60px;
+}
+
+.input {
+  padding-left: 718px;
+  padding-top: 20px;
+  font-size: xx-large;
+}
+
+.form {
+  padding-left: 718px;
+  padding-top: 20px;
+}
+
+.range {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 250px;
+  margin-bottom: 20px;
+}
+
+.chins {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 350px;
+  color: white;
+  background-color: black;
+}
